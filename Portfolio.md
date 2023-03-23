@@ -20,7 +20,6 @@ My name is Dawid Feluks, and I am an E-promoter for a leading brand in the sanit
 
 ## Courses
 
-Dillinger uses a number of open source projects to work properly:
 
 - [Practical software testing course Udemy]( https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania)
 - [The basics of manual software testing Udemy](https://www.udemy.com/course/kurs-testowania-oprogramowania)

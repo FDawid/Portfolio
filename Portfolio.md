@@ -20,7 +20,6 @@ My name is Dawid Feluks, and I am an E-promoter for a leading brand in the sanit
 
 ## Courses
 
-
 - [Practical software testing course Udemy]( https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania)
 - [The basics of manual software testing Udemy](https://www.udemy.com/course/kurs-testowania-oprogramowania)
 - [Become a Tester Sii](https://sii.pl/szkolenia/oferta/zostan-testerem/)

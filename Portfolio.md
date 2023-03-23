@@ -6,7 +6,7 @@
 
 My name is Dawid Feluks, and I am an E-promoter for a leading brand in the sanitary fittings market. I have a Bachelor's degree in Management with a specialization in Psychology and Business Communication. The topic of my thesis was "Improving Showroom Work for Online Presentations." On this website, I would like to showcase the skills that I have acquired through learning and research. Testing applications is an essential part of my work. I began my journey of knowledge acquisition in mid-2022 by watching a series of videos from the @TechnikaProgramowania channel on YouTube after completing my studies. Through my current job, I have experience in testing web and mobile applications, and I am continually developing my soft skills. I am a composed person who learns every day and is focused on achieving goals. In the future, I would like to develop my skills in test automation and improve my English and German. I am not afraid of new challenges and possess highly developed interpersonal skills from working with private and business clients. I am a positive person who would like to start developing in a professional environment
 
-[My resume](https://drive.google.com/file/d/1RO7aBgs9D8FOcCPnGHfkX6Z7_SJV8Sqb/view?usp=sharing)
+[My resume](https://drive.google.com/file/d/1E9Jrxr5pcq6M7p69yO-tCfeUXKCLl5gW/view?usp=sharing)
 
 
 ## Tools
